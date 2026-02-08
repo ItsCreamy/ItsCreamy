@@ -49,7 +49,7 @@ Advanced search and property management system built with complex React dependen
 ### 📊 Professional Insights
 <div align="center">
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ItsCreamy&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&title_color=00d1ff&icon_color=00d1ff&text_color=ffffff&bg_color=0d1117" />
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ItsCreamy&layout=compact&theme=tokyonight&title_color=00d1ff&text_color=ffffff&bg_color=0d1117" />
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ItsCreamy&layout=compact&theme=tokyonight&title_color=00d1ff&text_color=ffffff&bg_color=0d1117&count_private=true&include_all_commits=true" />
 </div>
 
 ---
