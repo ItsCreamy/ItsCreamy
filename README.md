@@ -1,14 +1,13 @@
-# Hi, I'm Chanul 🚀
-
 <p align="center">
   <img src="https://github.com/ItsCreamy/ItsCreamy/blob/main/github-header-banner%20(1).png?raw=true" alt="Banner" width="100%" />
 </p>
 
-### 👨‍💻 About Me
+### 👨‍💻 Professional Summary
 I am a **2nd-year Computer Science student** at the Informatics Institute of Technology (IIT). I specialize in building modern web applications with a focus on minimalist design and clean architecture.
 
 - 🚀 **Currently Leading:** [CoNNect](https://www.iit-connect.com/), a mobile social networking hub for IIT students.
-- 🛠️ **Learning:** Advanced React patterns, Java-based system design, and MongoDB.
+- 🛠️ **Expertise:** Full-stack development with React, Java, and MongoDB.
+- 📈 **Goal:** Engineering scalable solutions that bridge the gap between UI and UX.
 
 ---
 
@@ -29,44 +28,37 @@ I am a **2nd-year Computer Science student** at the Informatics Institute of Tec
 
 ---
 
-### 🚀 Featured Projects
-
-#### 🌐 [CoNNect - Official Marketing Site](https://www.iit-connect.com/)
-The landing page and community hub for our university social app.
-- **Tech Stack:** React, Vercel, Cloudflare.
-
-#### 🏠 [Property Manager (ACS-CW)](https://itscreamy.github.io/ACS-CW/)
-A robust property management tool with dynamic search functionality.
-- **Tech Stack:** React, Multiple Dependencies.
-
-#### 📂 [Personal Portfolio](https://itscreamy.github.io/)
-A clean, minimalist personal showcase.
-- **Tech Stack:** HTML5, CSS3.
-
----
-
-### 🐍 Contribution Snake
+### 📈 Activity & Growth
 <p align="center">
-  <img src="https://img.shields.io/github/commit-activity/y/ItsCreamy/ItsCreamy?label=Yearly%20Commits&color=00d1ff&style=flat-square" alt="Dynamic Commits" />
+  <img src="https://img.shields.io/badge/Lifetime%20Commits-calculating...-00d1ff?style=for-the-badge&logo=github" alt="Lifetime Commits" />
+  <img src="https://img.shields.io/badge/Current%20Streak-🔥-orange?style=for-the-badge" alt="Streak" />
 </p>
 
+#### 🐍 Contribution Snake (2024 - 2026)
 <div align="center">
   <img alt="snake" src="https://raw.githubusercontent.com/ItsCreamy/ItsCreamy/output/github-contribution-grid-snake.svg" />
 </div>
 
 ---
 
-### 📊 GitHub Stats
+### 🚀 Featured Projects
+
+#### 🌐 [CoNNect - IIT Student Hub](https://www.iit-connect.com/)
+Leading the development of a social platform specifically for the IIT community.
+- **Stack:** React Native, Java, Cloudflare.
+
+#### 🏠 [Property Manager (ACS-CW)](https://itscreamy.github.io/ACS-CW/)
+Advanced search and property management system built with complex React dependencies.
+
+---
+
+### 📊 Professional Insights
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ItsCreamy&show_icons=true&theme=dark&hide_border=true&title_color=00d1ff&icon_color=00d1ff" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItsCreamy&layout=compact&theme=dark&hide_border=true&title_color=00d1ff" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ItsCreamy&show_icons=true&theme=dark&hide_border=false&include_all_commits=true&count_private=true&title_color=00d1ff&icon_color=00d1ff&text_color=ffffff&border_color=00d1ff" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItsCreamy&layout=compact&theme=dark&hide_border=false&title_color=00d1ff&text_color=ffffff&border_color=00d1ff" />
 </div>
 
 ---
 
-### 🎵 Listening To
-<p align="center">
-  <a href="https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=00d1ff&bar_color=00d1ff">
-    <img src="https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=00d1ff&bar_color=00d1ff" alt="Spotify" width="400" />
-  </a>
-</p>
+### 💡 Why Work With Me?
+> I don't just write code; I build systems that solve real-world problems for university students. My approach combines the rigor of **Computer Science theory** with the speed of **modern web frameworks**.
