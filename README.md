@@ -7,7 +7,7 @@ I am a **2nd-year Computer Science student** at the Informatics Institute of Tec
 
 - 🚀 **Currently Leading:** [CoNNect](https://www.iit-connect.com/), a mobile social networking hub for IIT students.
 - 🛠️ **Expertise:** Full-stack development with React, Java, and MongoDB.
-- 📈 **Goal:** Engineering scalable solutions that bridge the gap between UI and UX.
+- 📈 **Goal:** Engineering scalable solutions that are effiecent.
 
 ---
 
@@ -30,13 +30,12 @@ I am a **2nd-year Computer Science student** at the Informatics Institute of Tec
 
 ### 📈 Activity & Growth
 <p align="center">
-  <img src="https://img.shields.io/badge/Lifetime%20Commits-calculating...-00d1ff?style=for-the-badge&logo=github" alt="Lifetime Commits" />
-  <img src="https://img.shields.io/badge/Current%20Streak-🔥-orange?style=for-the-badge" alt="Streak" />
+  <img src="https://img.shields.io/github/commits-across-all-repos/ItsCreamy?style=for-the-badge&color=00d1ff&label=Total%20Commits&logo=github" alt="Total Commits" />
 </p>
 
-#### 🐍 Contribution Snake (2024 - 2026)
+#### 🐍 Contributions
 <div align="center">
-  <img alt="snake" src="https://raw.githubusercontent.com/ItsCreamy/ItsCreamy/output/github-contribution-grid-snake.svg" />
+  <img alt="snake" src="https://raw.githubusercontent.com/ItsCreamy/ItsCreamy/output/github-contribution-grid-snake-dark.svg" />
 </div>
 
 ---
@@ -45,7 +44,7 @@ I am a **2nd-year Computer Science student** at the Informatics Institute of Tec
 
 #### 🌐 [CoNNect - IIT Student Hub](https://www.iit-connect.com/)
 Leading the development of a social platform specifically for the IIT community.
-- **Stack:** React Native, Java, Cloudflare.
+- **Stack:** React Native, Java, Cloudfare.
 
 #### 🏠 [Property Manager (ACS-CW)](https://itscreamy.github.io/ACS-CW/)
 Advanced search and property management system built with complex React dependencies.
@@ -54,8 +53,8 @@ Advanced search and property management system built with complex React dependen
 
 ### 📊 Professional Insights
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ItsCreamy&show_icons=true&theme=dark&hide_border=false&include_all_commits=true&count_private=true&title_color=00d1ff&icon_color=00d1ff&text_color=ffffff&border_color=00d1ff" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItsCreamy&layout=compact&theme=dark&hide_border=false&title_color=00d1ff&text_color=ffffff&border_color=00d1ff" />
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ItsCreamy&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&title_color=00d1ff&icon_color=00d1ff&text_color=ffffff&bg_color=0d1117" />
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ItsCreamy&layout=compact&theme=tokyonight&title_color=00d1ff&text_color=ffffff&bg_color=0d1117" />
 </div>
 
 ---
