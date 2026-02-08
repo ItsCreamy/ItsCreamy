@@ -28,11 +28,6 @@ I am a **2nd-year Computer Science student** at the Informatics Institute of Tec
 
 ---
 
-### 📈 Activity & Growth
-<p align="center">
-  <img src="https://img.shields.io/github/commits-across-all-repos/ItsCreamy?style=for-the-badge&color=00d1ff&label=Total%20Commits&logo=github" alt="Total Commits" />
-</p>
-
 #### 🐍 Contributions
 <div align="center">
   <img alt="snake" src="https://raw.githubusercontent.com/ItsCreamy/ItsCreamy/output/github-contribution-grid-snake-dark.svg" />
