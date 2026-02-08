@@ -1,19 +1,20 @@
 # Hi, I'm Chanul 🚀
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=00d1ff&height=200&section=header&text=Full%20Stack%20Developer&fontSize=50&animation=fadeIn" alt="Banner" />
+  <img src="https://github.com/ItsCreamy/ItsCreamy/blob/main/github-header-banner%20(1).png?raw=true" alt="Banner" width="100%" />
 </p>
 
 ### 👨‍💻 About Me
 I am a **2nd-year Computer Science student** at the Informatics Institute of Technology (IIT). I specialize in building modern web applications with a focus on minimalist design and clean architecture.
 
 - 🚀 **Currently Leading:** [CoNNect](https://www.iit-connect.com/), a mobile social networking hub for IIT students.
-- 🛠️ **Learning:** Advanced React patterns and Java-based system design along with MongoDB.
+- 🛠️ **Learning:** Advanced React patterns, Java-based system design, and MongoDB.
 
 ---
 
 ### 🛠️ Tech Stack & Tools
 <p align="left">
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
@@ -33,11 +34,10 @@ I am a **2nd-year Computer Science student** at the Informatics Institute of Tec
 #### 🌐 [CoNNect - Official Marketing Site](https://www.iit-connect.com/)
 The landing page and community hub for our university social app.
 - **Tech Stack:** React, Vercel, Cloudflare.
-- **Role:** Project Lead & Co-Founder.
 
 #### 🏠 [Property Manager (ACS-CW)](https://itscreamy.github.io/ACS-CW/)
 A robust property management tool with dynamic search functionality.
-- **Tech Stack:** React, Multiple React Dependencies (State Management/UI Libraries).
+- **Tech Stack:** React, Multiple Dependencies.
 
 #### 📂 [Personal Portfolio](https://itscreamy.github.io/)
 A clean, minimalist personal showcase.
@@ -46,18 +46,27 @@ A clean, minimalist personal showcase.
 ---
 
 ### 🐍 Contribution Snake
+<p align="center">
+  <img src="https://img.shields.io/github/commit-activity/y/ItsCreamy/ItsCreamy?label=Yearly%20Commits&color=00d1ff&style=flat-square" alt="Dynamic Commits" />
+</p>
+
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ItsCreamy/ItsCreamy/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ItsCreamy/ItsCreamy/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ItsCreamy/ItsCreamy/output/github-contribution-grid-snake.svg">
-  </picture>
+  <img alt="snake" src="https://raw.githubusercontent.com/ItsCreamy/ItsCreamy/output/github-contribution-grid-snake.svg" />
 </div>
 
 ---
 
 ### 📊 GitHub Stats
 <div align="center">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ItsCreamy&show_icons=true&theme=transparent&hide_border=true&title_color=00d1ff&icon_color=00d1ff&text_color=ffffff" />
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ItsCreamy&layout=compact&theme=transparent&hide_border=true&title_color=00d1ff&text_color=ffffff" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ItsCreamy&show_icons=true&theme=dark&hide_border=true&title_color=00d1ff&icon_color=00d1ff" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItsCreamy&layout=compact&theme=dark&hide_border=true&title_color=00d1ff" />
 </div>
+
+---
+
+### 🎵 Listening To
+<p align="center">
+  <a href="https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=00d1ff&bar_color=00d1ff">
+    <img src="https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=00d1ff&bar_color=00d1ff" alt="Spotify" width="400" />
+  </a>
+</p>
