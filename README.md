@@ -23,8 +23,8 @@
 
 ### 📊 GitHub Activity
 <div align="center">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=[YourUsername]&show_icons=true&theme=transparent&hide_border=true&title_color=00d1ff&icon_color=00d1ff&text_color=ffffff" />
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=[YourUsername]&layout=compact&theme=transparent&hide_border=true&title_color=00d1ff&text_color=ffffff" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=[ItsCreamy]&show_icons=true&theme=transparent&hide_border=true&title_color=00d1ff&icon_color=00d1ff&text_color=ffffff" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=[ItsCreamy]&layout=compact&theme=transparent&hide_border=true&title_color=00d1ff&text_color=ffffff" />
 </div>
 
 ---
@@ -32,9 +32,9 @@
 ### 🐍 Contribution Snake
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/[YourUsername]/[YourUsername]/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/[YourUsername]/[YourUsername]/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/[YourUsername]/[YourUsername]/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/[ItsCreamy]/[ItsCreamy]/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/[ItsCreamy]/[ItsCreamy]/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/[ItsCreamy]/[ItsCreamy]/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
 
